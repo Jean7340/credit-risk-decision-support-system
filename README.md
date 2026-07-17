@@ -15,7 +15,7 @@ This project is designed as a **decision-support system rather than a fully auto
 
 ## Application Demo
 
-![App Demo](images/app_demo.png)
+![App Demo](images/app_demo.gif)
 
 ---
 
