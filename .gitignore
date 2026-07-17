@@ -20,4 +20,4 @@ env/
 .vscode/
 
 # Data (FICO license does not permit redistribution)
-data/
+data/.Rhistory
